@@ -1,0 +1,34 @@
+.experience-box{
+    border: 1px solid #08d665;
+    border-radius: 10px;
+    /* background-color: #cddddd29; */
+}
+.company-title{
+    color: #08d665;
+}
+.experiences-title span{
+    color: #08d665;
+}
+@media (min-width:1280px) {
+    .experiences-img{
+        width: 60%;
+        margin-left: auto;
+     margin-right: auto;
+       } 
+}
+@media (max-width:1279px) and (min-width:769px) {
+    
+
+    
+}
+@media (max-width:768px) and (min-width:481px) {
+    
+}
+@media (max-width:480px) {
+    .experiences-img{
+     width: 75%;
+     margin-left: auto;
+     margin-right: auto;
+    }
+    
+}

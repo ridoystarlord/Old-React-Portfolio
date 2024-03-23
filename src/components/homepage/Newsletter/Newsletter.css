@@ -1,0 +1,19 @@
+.subscribe-box{
+    border: 1px solid #08d665;
+    border-radius: 5px;
+}
+.subscribe-box-input{
+    background-color: #cddddd29;
+}
+.subscribe-box-btn{
+    background-color: #08d665;
+}
+.subscribe-box-btn:hover{
+    background-color: #08d665;
+}
+.newsletter p{
+    color: #08d665;
+}
+.newsletter h1 span{
+    color: #08d665;
+}

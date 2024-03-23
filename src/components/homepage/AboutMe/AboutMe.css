@@ -1,0 +1,35 @@
+.about-me-title span{
+    color: #08d665;
+}
+.about-me-icon{
+    color: #08d665;
+}
+.about-me-social-media div div:hover .about-me-icon{
+    color: white;
+}
+.about-me-social-media div div:hover a{
+    color: #08d665 !important;
+}
+
+@media (min-width:1280px) {
+    
+}
+@media (max-width:1279px) and (min-width:769px) {
+    
+
+    
+}
+@media (max-width:768px) and (min-width:481px) {
+    .about-me-social-media{
+        display: flex; 
+        justify-content: center;  
+       }
+    
+}
+@media (max-width:480px) {
+    .about-me-social-media{
+     display: flex; 
+     justify-content: center;  
+    }
+    
+}
